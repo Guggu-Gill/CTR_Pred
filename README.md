@@ -11,4 +11,3 @@ eg- adds displayed on top have more proabablity to get clicked, similary larger 
 <img width="569" alt="Screenshot 2023-05-19 at 1 54 31 PM" src="https://github.com/Guggu-Gill/CTR_Pred/assets/128667568/978a7c36-b1b9-4245-a1b3-7669b72ddf9f">
 <img width="577" alt="Screenshot 2023-05-19 at 1 54 53 PM" src="https://github.com/Guggu-Gill/CTR_Pred/assets/128667568/349f9351-b301-495b-8cef-7589d5918214">
 <img width="581" alt="Screenshot 2023-05-19 at 1 55 13 PM" src="https://github.com/Guggu-Gill/CTR_Pred/assets/128667568/6fc1d4e1-a07a-4242-b6b8-9da73bf639d5">
-<img width="541" alt="Screenshot 2023-05-19 at 1 54 19 PM" src="https://github.com/Guggu-Gill/CTR_Pred/assets/128667568/8f5a34f4-7b70-475e-84c7-9828c04d3f99">
